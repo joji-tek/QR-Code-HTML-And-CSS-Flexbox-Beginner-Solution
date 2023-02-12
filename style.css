@@ -3,13 +3,13 @@
   --light-gray: hsl(212, 45%, 89%);
   --grayish-blue: hsl(220, 15%, 55%);
   --dark-blue: hsl(218, 44%, 22%);
-  --bg-color: hsl(212, 11%, 94%);
+  --bg-color: hsl(200, 52%, 82%);
 }
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
 html,
 body {
   font-family: "Outfit", sans-serif;
-  background-color: var(--grayish-blue);
+  background-color: var(--bg-color);
   overflow: hidden;
 }
 .container {
