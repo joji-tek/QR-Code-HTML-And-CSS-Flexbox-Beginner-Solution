@@ -12,6 +12,13 @@ body {
   background-color: var(--bg-color);
   overflow: hidden;
 }
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
 .container {
   display: flex;
   height: 100vh;
